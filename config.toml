@@ -1,0 +1,73 @@
+baseurl = "https://ponyhof.network-innovation.de/"
+title = "Ponyhof Flamersheim"
+author = "Daniel Zerlett"
+
+# Shown in the side menu
+copyright = "&copy; 2016 Ponyhof Flamersheim"
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  #  subtitle = "A Hugo Theme"
+  brand = "Ponyhof<br>Flamersheim"
+  #  googleAnalytics = "Your Google Analytics tracking ID"
+  #  disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  # highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+  # Include any custom CSS and/or JS files
+  # (relative to /static folder)
+  # custom_css = ["css/my.css"]
+  # custom_js = ["js/my.js"]
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Aktuelles"
+    pre = "<i class='fa fa-home fa-fw'></i>" 
+    weight = 0
+    identifier = "aktuelles"
+    url = "/"
+  [[menu.main]] 
+    name = "Termine"
+    pre = "<i class='fa fa-calendar fa-fw'></i>"
+    weight = 1
+    identifier = "termine"
+    url = "/termine/"
+  [[menu.main]]
+    name = "Öffnungszeiten"
+    pre = "<i class='fa fa-clock-o fa-fw'></i>"
+    weight = 2
+    url = "/oeffnungszeiten/"
+  [[menu.main]]
+    name = "Preise"
+    pre = "<i class='fa fa-eur fa-fw'></i>"
+    weight = 3
+    url = "/preise/" 
+  [[menu.main]]
+    name = "Verein"
+    pre = "<i class='fa fa-heart-o fa-fw'></i>"
+    weight = 4
+    url = "/verein/"
+  [[menu.main]]
+    name = "Formulare"
+    pre = "<i class='fa fa-file-pdf-o fa-fw'></i>"
+    weight = 5
+    url = "/formulare/" 
+  [[menu.main]]
+    name = "Kontakt"
+    pre = "<i class='fa fa-envelope fa-fw'></i>"
+    weight = 6
+    url = "/kontakt/"
+
+
+
+
+
+
+
