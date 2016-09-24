@@ -1,28 +1,27 @@
 baseurl = "https://ponyhof.network-innovation.de/"
 title = "Ponyhof Flamersheim"
 author = "Daniel Zerlett"
+theme = "blackburn"
 
 # Shown in the side menu
 copyright = "&copy; 2016 Ponyhof Flamersheim"
 canonifyurls = true
-paginate = 10
+paginate = 5
 
 [indexes]
   tag = "tags"
-  topic = "topics"
 
 [params]
   # Shown in the home page
-  #  subtitle = "A Hugo Theme"
-  brand = "Ponyhof<br>Flamersheim"
-  #  googleAnalytics = "Your Google Analytics tracking ID"
-  #  disqus = "Your Disqus shortname"
+  subtitle = "Aktuelles vom Ponyhof Flamersheim"
+  brand = "<img src=\"/images/ponyhof-logo.svg\" width=\"100%\">"
+  # googleAnalytics = "Your Google Analytics tracking ID"
   # CSS name for highlight.js
-  # highlightjs = "androidstudio"
-  dateFormat = "02 Jan 2006, 15:04"
+  highlightjs = "androidstudio"
+  dateFormat = "2. Januar 2006 15:04"
   # Include any custom CSS and/or JS files
   # (relative to /static folder)
-  # custom_css = ["css/my.css"]
+  custom_css = ["css/my.css"]
   # custom_js = ["js/my.js"]
 
 [menu]
@@ -31,7 +30,7 @@ paginate = 10
     name = "Aktuelles"
     pre = "<i class='fa fa-home fa-fw'></i>" 
     weight = 0
-    identifier = "aktuelles"
+    identifier = "post"
     url = "/"
   [[menu.main]] 
     name = "Termine"
@@ -43,26 +42,43 @@ paginate = 10
     name = "Öffnungszeiten"
     pre = "<i class='fa fa-clock-o fa-fw'></i>"
     weight = 2
+    identifier = "oeffnungszeiten"
     url = "/oeffnungszeiten/"
+  [[menu.main]]
+    name = "Angebot"
+    pre = "<i class='fa fa-hand-o-right fa-fw'></i>"
+    weight = 3
+    idetifier = "angebot"
+    url = "/angebot/"
   [[menu.main]]
     name = "Preise"
     pre = "<i class='fa fa-eur fa-fw'></i>"
-    weight = 3
+    weight = 4
+    idetifier = "preise"
     url = "/preise/" 
+  [[menu.main]]
+    name = "Ponyhof"
+    pre = "<i class='fa fa-child fa-fw'></i>"
+    weight = 5
+    identifier = "ponyhof"
+    url = "/ponyhof/"
   [[menu.main]]
     name = "Verein"
     pre = "<i class='fa fa-heart-o fa-fw'></i>"
-    weight = 4
+    weight = 6
+    identifier = "verein"
     url = "/verein/"
   [[menu.main]]
     name = "Formulare"
     pre = "<i class='fa fa-file-pdf-o fa-fw'></i>"
-    weight = 5
+    weight = 7
+    identifier = "formulare"
     url = "/formulare/" 
   [[menu.main]]
     name = "Kontakt"
     pre = "<i class='fa fa-envelope fa-fw'></i>"
-    weight = 6
+    weight = 8
+    identifier = "kontakt"    
     url = "/kontakt/"
 
 
