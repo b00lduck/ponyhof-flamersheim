@@ -1,6 +1,6 @@
 +++
 title = "RV Ponyhof Flamersheim e.V." 
-date = "2016-09-24" 
+date = "2017-03-10" 
 sidemenu = "true" 
 #description = ""
 +++
@@ -19,6 +19,8 @@ Jugendwartin       | Ursula Zerlett
 In den nächsten Tagen folgen neue Infos, sowie die Satzung des Vereins.
 
 **Unterstützen sie die Reiter und Kinder – treten sie dem Verein bei!**
+
+[Aufnahmeantrag PDF](/downloads/aufnahmeantrag.pdf)
 
 Für alle Reiter die bei uns regelmäßig reiten (Gruppenstunden) besteht eine Vereinspflicht.
 

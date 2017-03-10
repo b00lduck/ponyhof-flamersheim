@@ -7,5 +7,5 @@ sidemenu = "true"
 
 ## Ponyhof Flamersheim
 
-- [Anmeldeformular Ferienbetreuung Herbst 2016](/downloads/ferienbetreuung-herbst-2016.pdf)
+- [Beitrittserklärung RV Ponyhof Flamersheim e.V.](/downloads/aufnahmeantrag.pdf)
 

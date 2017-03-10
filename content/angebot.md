@@ -1,8 +1,8 @@
 +++
 title = "Angebot des Ponyhof Flamersheim" 
-date = "2016-09-24" 
+date = "2017-03-10" 
 sidemenu = "true" 
-#description = "Stand: 24.9.2016"
+#description = "Stand: 10.3.2017"
 +++
 
 ## Ferienbetreuung
@@ -72,9 +72,9 @@ Mit vorheriger Ankündigung bieten wir auch 2 Tagesritte mit Übernachtung an.
 ## Spazieren gehen
 
 Sie machen eine Sonntagsspaziergang, haben Bekannte zu Besuch und wollen den Kinder den Nachmittag verschönern?
-Dann „Mieten“ sie sich bei uns ein Pony für 30 Minuten oder 1 Stunde. Es ist immer jemand von uns dabei! In einer lockeren  Umgebung, kann ihr Kind auf dem Platz/ Halle reiten, geführt werden oder wir gehen mit ihnen spazieren.
+Dann „Mieten“ sie sich bei uns ein Pony für 30 Minuten oder 1 Stunde. Es ist immer jemand von uns dabei! In einer lockeren  Umgebung, kann ihr Kind auf dem Platz reiten, geführt werden oder wir gehen mit ihnen spazieren.
 
-Die Termine für Spaziergänge finden sie bei unter [Termine](/termine)
+Die Termine für Spaziergänge finden sie unter [Termine](/termine)
 
  
 

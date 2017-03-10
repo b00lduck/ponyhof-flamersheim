@@ -1,6 +1,6 @@
 +++
 title = "Termine" 
-date = "2016-09-24" 
+date = "2017-03-10" 
 sidemenu = "true" 
 description = "Stand: 24.9.2016"
 +++
@@ -9,6 +9,5 @@ description = "Stand: 24.9.2016"
 
 Wann?                           | Was?
 :------------------------------ | :--------------------------------------------------
-Herbstferien 2016 NRW 1. Woche  | Ferienbetreuung [Info klick hier](/post/ferienbetreuung-herbst-2016/)
-
+ | z.Zt. keine Termine
 
