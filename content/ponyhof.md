@@ -1,6 +1,6 @@
 +++
 title = "Ponyhof Flamersheim" 
-date = "2017-03-10" 
+date = "2017-03-14"
 sidemenu = "true" 
 description = "Über uns"
 +++
@@ -10,7 +10,7 @@ bei dem Spaß und Freude der Tiere und Menschen an erster Stelle stehen. Bei uns
 
 Wir haben folgende Reitmöglichkeiten:
 
-- kleiner Reitplatz
+- Reitplatz
 - Wiesenplatz
 - Geländeritte
 
