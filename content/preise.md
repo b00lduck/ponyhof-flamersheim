@@ -1,6 +1,6 @@
 +++
 title = "Aktuelle Preisliste" 
-date = "2016-09-24" 
+date = "2017-03-14"
 sidemenu = "true" 
 description = "Stand: 24.9.2016"
 +++
@@ -10,8 +10,8 @@ description = "Stand: 24.9.2016"
 Leistung                               | Preis 
  :------------------------------------ | -----:
 Ponyclub Monatsbeitrag                 |  35€
-4er Karte                              |  50€
-10er Karte                             | 115€
+5er Karte                              |  60€
+10er Karte                             | 110€
 Spaziergang ca. 30min (selber führen)  |  10€
 Spaziergang ca. 30min (wir führen)     |  12€
  

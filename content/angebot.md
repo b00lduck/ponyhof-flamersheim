@@ -1,6 +1,6 @@
 +++
 title = "Angebot des Ponyhof Flamersheim" 
-date = "2017-03-10" 
+date = "2017-03-14"
 sidemenu = "true" 
 #description = "Stand: 10.3.2017"
 +++
@@ -30,9 +30,9 @@ Bei den Reiterzwergen machen die kleinen Reiter und Reiterinnen erste Erfahrunge
 Alter: 1.-2. Schulklasse  
 Gruppenstärke: bis 6 Kinder  
 
-## FN Reitabzeichen
+## FN Abzeichen
 
-Je nach Nachfrage bieten wir im Winter FN-Abzeichen an.
+Je nach Nachfrage bieten wir FN-Abzeichen an.
  
 ## Einzelstunden
 
@@ -71,7 +71,7 @@ Mit vorheriger Ankündigung bieten wir auch 2 Tagesritte mit Übernachtung an.
 
 ## Spazieren gehen
 
-Sie machen eine Sonntagsspaziergang, haben Bekannte zu Besuch und wollen den Kinder den Nachmittag verschönern?
+Sie machen einen Wochenendspaziergang, haben Bekannte zu Besuch und wollen den Kinder den Nachmittag verschönern?
 Dann „Mieten“ sie sich bei uns ein Pony für 30 Minuten oder 1 Stunde. Es ist immer jemand von uns dabei! In einer lockeren  Umgebung, kann ihr Kind auf dem Platz reiten, geführt werden oder wir gehen mit ihnen spazieren.
 
 Die Termine für Spaziergänge finden sie unter [Termine](/termine)

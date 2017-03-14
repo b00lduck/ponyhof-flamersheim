@@ -1,6 +1,6 @@
 +++
 title = "Öffnungszeiten" 
-date = "2016-09-24" 
+date = "2017-03-14"
 sidemenu = "true" 
 #description = ""
 +++
@@ -10,6 +10,6 @@ Wir haben keine geregelten Öffnungszeiten für Besucher, da wir mit den Ponys u
 Sie erreichen uns [telefonisch](/kontakt):
 
 - Mo-Fr 15.00 – 18.30 Uhr
-- Sa 10.00 – 13.00 Uhr
+- Sa 10.00 – 15.00 Uhr
 
 
