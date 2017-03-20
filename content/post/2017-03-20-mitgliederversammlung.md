@@ -1,8 +1,8 @@
 +++
 date        = "2017-03-20T17:31:00-00:00"
-title       = "Mitgleiderversammlung"
+title       = "Mitgliederversammlung"
 description = ""
-tags        = [ "Aktuelles", "Verein", "Mitgleiderversammlung" ]
+tags        = [ "Aktuelles", "Verein", "Mitgliederversammlung" ]
 slug        = "mitgliederversammlung-2017"
 +++
 
