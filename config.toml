@@ -8,6 +8,8 @@ copyright = "&copy; 2017 Ponyhof Flamersheim"
 canonifyurls = true
 paginate = 5
 
+defaultContentLanguage = "de"
+
 [indexes]
   tag = "tags"
 

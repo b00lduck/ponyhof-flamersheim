@@ -6,11 +6,11 @@ tags        = [ "Aktuelles", "Verein", "Turnier" ]
 slug        = "vereinsturnier-zeitplan-2017"
 +++
 
-## Endgültige Zeiteinteilung
-### Vereinsturnier 24.6.2017
+Endgültige Zeiteinteilung Vereinsturnier 24.6.2017
 
 <!--more-->
 
+| &nbsp;               | &nbsp;
 :--------------------- | :--------------------------------------------------
 | 10:00 Uhr            | Prüfung Nr. 3<br>Reiterwettbewerb Schritt, Trab, Galopp<br>Jahrgang 2004 und älter
 | 10:30 Uhr            | Prüfung Nr. 3<br>Reiterwettbewerb Schritt, Trab, Galopp<br>Jahrgang 2005 und jünger
