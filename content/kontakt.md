@@ -1,6 +1,6 @@
 +++
 title = "Kontakt" 
-date = "2017-03-20"
+date = "2018-01-25"
 sidemenu = "true" 
 #description = ""
 +++
@@ -9,7 +9,7 @@ sidemenu = "true"
 **Ursula Zerlett**  
 Pützgasse 32
 53881 Euskirchen  
-Telefon: 0157 - 74 50 97 97
+Telefon: 0176 - 45 74 56 45
 
 Zugang Wagnerstraße
 
