@@ -8,5 +8,4 @@ sidemenu = "true"
 ## Ponyhof Flamersheim
 
 - [Beitrittserklärung RV Ponyhof Flamersheim e.V.](/downloads/aufnahmeantrag.pdf)
-- [Anmeldeformular Ferienbetreuung Ostern 2017](/downloads/ferienbetreuung-ostern-2017.pdf)
-- [Anmeldeformular Ferienbetreuung Sommer 2017](/downloads/ferienbetreuung-sommer-2017.pdf)
+

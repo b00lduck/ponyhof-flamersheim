@@ -1,6 +1,6 @@
 +++
 title = "RV Ponyhof Flamersheim e.V." 
-date = "2017-03-10" 
+date = "2024-05-27" 
 sidemenu = "true" 
 #description = ""
 +++
@@ -10,13 +10,12 @@ die Freizeitgestaltung der Kinder im Dorf und veranstalten Turniere, Feste und E
 
 Vereinsvorstand:   | &nbsp;
  :---------------- | :-----------------
-1. Vorsitzende     | Kristina Bürger  
-2. Vorsitzende     | Leonie Doppelfeld  
-Sportbeauftragte   | Jenni Handt  
-Kassenwart         | Katrin Zerlett-Mittag  
-Jugendwartin       | Ursula Zerlett  
-
-In den nächsten Tagen folgen neue Infos, sowie die Satzung des Vereins.
+1. Vorsitzende     | Leonie Doppelfeld  
+2. Vorsitzende     | Ursula Zerlett   
+Sportwart          | Jenni Handt  
+Kassenwart         | Ruth Grommes  
+Jugendwartin       | Miriam Nasheuer
+Eventbeauftragte   | Marion Kolvenbach  
 
 **Unterstützen sie die Reiter und Kinder – treten sie dem Verein bei!**
 
