@@ -5,7 +5,7 @@ sidemenu = "true"
 #description = ""
 +++
 
-Wir haben keine geregelten Öffnungszeiten für Besucher, da wir mit den Ponys unterwegs sein könnten. Am besten machen sie einen Termin, oder versuchen es auf gut Glück am Eingang Wagnerstraße.
+Wir haben keine geregelten Öffnungszeiten für Besucher, da wir mit den Ponys unterwegs sein könnten. Am besten machen sie einen Termin, oder versuchen es auf gut Glück.
 
 Sie erreichen uns [telefonisch](/kontakt):
 

@@ -1,17 +1,14 @@
 +++
-title = "Kontakt" 
-date = "2018-01-25"
-sidemenu = "true" 
+title = "Kontakt"
+date = "2023-03-07"
+sidemenu = "true"
 #description = ""
 +++
 
 ## Ponyhof Flamersheim
-**Ursula Zerlett**  
-Pützgasse 32
+Talsperrenstraße (gegenüber Parkplatz Entcheshardt, im Navi "Entcheshardt" eingeben)  
 53881 Euskirchen  
 Telefon: 0176 - 45 74 56 45
-
-Zugang Wagnerstraße
 
 # Datenschutzerklärung
 

@@ -4,7 +4,7 @@ author = "Daniel Zerlett"
 theme = "blackburn"
 
 # Shown in the side menu
-copyright = "&copy; 2017 Ponyhof Flamersheim"
+copyright = "&copy; 2023 Ponyhof Flamersheim"
 canonifyurls = true
 paginate = 5
 
