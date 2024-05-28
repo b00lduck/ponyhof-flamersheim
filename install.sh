@@ -4,6 +4,8 @@
 if [ -z "$1" ]; then
     echo "Please enter the target host (user@host):"
     read TARGETHOST
+else
+    TARGETHOST=$1
 fi
 
 ../hugo/bin/spf13 -d public

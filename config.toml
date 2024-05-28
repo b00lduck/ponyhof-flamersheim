@@ -4,7 +4,7 @@ author = "Daniel Zerlett"
 theme = "blackburn"
 
 # Shown in the side menu
-copyright = "&copy; 2023 Ponyhof Flamersheim"
+copyright = "&copy; 2024 Ponyhof Flamersheim"
 canonifyurls = true
 paginate = 5
 
@@ -52,12 +52,6 @@ defaultContentLanguage = "de"
     weight = 3
     idetifier = "angebot"
     url = "/angebot/"
-  [[menu.main]]
-    name = "Preise"
-    pre = "<i class='fa fa-eur fa-fw'></i>"
-    weight = 4
-    idetifier = "preise"
-    url = "/preise/" 
   [[menu.main]]
     name = "Ponyhof"
     pre = "<i class='fa fa-child fa-fw'></i>"
